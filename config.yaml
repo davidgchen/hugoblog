@@ -13,15 +13,6 @@ googleAnalytics:
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl, it
 DefaultContentLanguage: en
-languages:
-    en:
-        baseURL: https://xdavidchen.com
-        languageName: English
-        weight: 1
-    zh-cn:
-        baseURL: https://xdavidchen.com.zh-cn
-        languageName: 中文
-        weight: 2
 
 permalinks:
     post: /p/:slug/
