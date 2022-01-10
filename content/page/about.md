@@ -52,5 +52,5 @@ menu:
 
 ## Contact me
 Since I don't use any social media platform, the only way you can reach me is through email.
-- Here: davegchen@gmail.com
+- Here: xdavidchen@tutamail.com
 - Or if you know me personally, find me through Line!
