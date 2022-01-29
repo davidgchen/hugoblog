@@ -111,7 +111,7 @@ params:
             emitMetadata: 0
 
     widgets:
-        enabled:
+        disabled:
             - search
             - archives
             - tag-cloud
