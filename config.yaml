@@ -2,7 +2,7 @@ baseurl: https://xdavidchen.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: xdavidchen|personal blog
+title: xdavidchen
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -37,7 +37,7 @@ params:
         subtitle: sharing some thoughts about life here...
         avatar:
             enabled: true
-            local: false
+            local: true
             src: img/avatar.jpg
 
     article:
