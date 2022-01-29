@@ -37,7 +37,7 @@ params:
         subtitle: sharing some thoughts about life here...
         avatar:
             enabled: true
-            local: true
+            local: false
             src: img/avatar.jpg
 
     article:
